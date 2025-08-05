@@ -38,7 +38,7 @@
   <img src="https://skillicons.dev/icons?i=python,java,js,ts,c,cpp,cs,php,go,bash,dart" />
 </p>
 
-#### ☁️ Cloud & DevOps
+#### Cloud & DevOps
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,azure,gcp,git,github,linux,docker" />
 </p>
