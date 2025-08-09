@@ -78,9 +78,9 @@ If the code doesn’t say something, it’s not done yet.
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| **Forge** | A thoughtful and emotionally resonant clone that reimagines a classic, built for storytelling and collaboration | Next.js, TailwindCSS, Firebase, Zustand |
-| **Concept Unlearning Engine** | Graph-based ML unlearning with Neo4j & LLM embeddings | Neo4j, DeepSeek LLM, Python |
-| **AI-Enhanced SOAR** | A smart Security Orchestration tool enhanced with context-aware AI decisioning | Python, FastAPI, GPT, Elastic Stack |
+| **Forge** | An AI-powered website builder that creates fully functional, visually stunning sites from simple prompts, with real-time editing and customization | Next.js, React, Inngest, Prisma |
+| **Vocalis** | An AI support platform with real-time chatbots and voice agents for customer service, capable of escalating issues to human agents when necessary | Next.js, React, TurboRepo, Vapi, AWS, Convex |
+| **AI-Enhanced SOAR** | A smart Security Orchestration tool enhanced with context-aware AI decisioning | Python, Go, FastAPI, GPT, Elastic Stack |
 
 ---
 
