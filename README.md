@@ -53,7 +53,7 @@
 
 ### What I’m Currently Exploring
 
-- Building **Forge** – a lovable, polished alternative to the original, with deep focus on **user experience, storytelling, and extensibility**
+- Building **Forge**, a lovable, polished alternative to the original, with deep focus on **user experience, storytelling, and extensibility**
 - Researching & prototyping **AI-enhanced SOARs** for smarter, more context-aware incident response automation
 - Working on graph-based ML **unlearning architectures** using Neo4j and fine-tuned LLMs
 
@@ -61,7 +61,7 @@
 
 ### Behind the Code
 
-I write software the way I write stories — layered, purposeful, and a little obsessed with meaning.
+I write software the way I write stories which are layered, purposeful, and a little obsessed with meaning.
 
 - Every project starts with a question.
 - Every feature I build hides a "why" beneath the "how."
