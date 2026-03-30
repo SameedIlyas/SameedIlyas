@@ -13,41 +13,34 @@
 
 ### Tech Toolbox
 
-#### Frontend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,dart,flutter" />
-</p>
+#### Core Languages
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,java,js,ts,go,cpp,c,cs,php,kotlin,bash,dart" /> </p>
 
-#### Backend & APIs
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,php,laravel,java,spring,cs,dotnet,go" />
-</p>
+#### Frontend & Mobile Development
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap,flutter" /> </p>
 
-#### Databases
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
-</p>
+#### Backend Systems & APIs
+<p align="center"> <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,laravel,spring,dotnet" /> </p>
+ Data, Databases & Search
+<p align="center"> <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,elasticsearch,prisma" /> </p>
 
-#### AI/ML & Data
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
-</p>
+#### AI, Machine Learning & Computer Vision
+<p align="center"> <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" /> </p>
 
-#### Programming Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,c,cpp,cs,php,go,bash,dart" />
-</p>
+#### Real-Time & Distributed Systems
+<p align="center"> <img src="https://skillicons.dev/icons?i=kafka" /> </p>
 
-#### Cloud & DevOps
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,git,github,linux,docker" />
-</p>
+#### Cloud, Infrastructure & DevOps
+<p align="center"> <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,linux,git,github" /> </p>
 
-#### Tools & IDEs
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,intellij" />
-</p>
+#### Developer Tools & Observability
+<p align="center"> <img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,postman,sentry" /> </p>
 
+#### AI Developer Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Claude_Code-black?style=for-the-badge&logo=anthropic&logoColor=white"/>
+  <img src="https://cursor.sh/apple-touch-icon.png" height="45" alt="Cursor"/>
+</p>
 
 ---
 
